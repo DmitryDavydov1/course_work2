@@ -73,7 +73,7 @@ class JobVacancy:
     def __gt__(self, other):
         return self.salary > other.salary
 
-# пример работы экземпляров класса
+# пример работы экземпляров  класса
 # vacancy1 = JobVacancy("progger", "dkkdkd", 5000, 400)
 # vacancy2 = JobVacancy("progger", "dkkdkd", 6000, 500)
 # print(vacancy1.__gt__(vacancy2))
