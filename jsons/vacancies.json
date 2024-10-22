@@ -1,0 +1,77 @@
+[
+    {
+        "id": "108453823",
+        "premium": false,
+        "name": "Python Backend Developer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": true,
+        "area": {
+            "id": "159",
+            "name": "Астана",
+            "url": "https://api.hh.ru/areas/159"
+        },
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-10-10T11:02:52+0300",
+        "created_at": "2024-10-10T11:02:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=108453823",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/108453823?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/108453823",
+        "relations": [],
+        "employer": {
+            "id": "5744484",
+            "name": "SOLARTEC",
+            "url": "https://api.hh.ru/employers/5744484",
+            "alternate_url": "https://hh.ru/employer/5744484",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5744484",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Уверенные знания <highlighttext>Python</highlighttext> (3.10) и опыт разработки на нем от менее 6 месяцев. ⦁ Опыт работы с фреймворками: Flask, FastApi...",
+            "responsibility": "Разработка и поддержка серверной части для WhatsApp ботов на <highlighttext>Python</highlighttext>. ⦁ Интеграция с внешними API и базами данных (PostgreSQL). ⦁ "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    }
+]
